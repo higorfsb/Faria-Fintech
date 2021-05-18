@@ -21,7 +21,6 @@ namespace Faria_Fintech_API.Controllers
         [HttpPost]
         public IActionResult CadastrarCliente(AlterarClienteRequest request)
         {
-            // preenche os dados do cliente
             var novoCliente = new Cliente
             {
                 Cidade = request.Cidade,
