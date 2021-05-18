@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ylyrZisRP5JoAP0BIJWGhGsXzx85ig3PsWlip8Mv2B5vBl+hQu9SV1FT7ma+YL/sWIAlDp+7xSKtsLcflkgh/Q==",
+  "dgSpecHash": "tq6FIgGjzeH5GdFO19VX4FIRBovSbvvSJj71ouDQ2ye2FSyvVoiSLMondcqIWYq7QFo7pIA/KSZdyD7RLZXiUg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Higor\\source\\repos\\Faria Fintech\\Faria Fintech API\\Faria Fintech API.csproj",
+  "projectFilePath": "C:\\Users\\Higor\\source\\repos\\Faria Fintech\\Faria-Fintech\\Faria Fintech API\\Faria Fintech API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Higor\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Higor\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",

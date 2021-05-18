@@ -5984,11 +5984,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Higor\\source\\repos\\Faria Fintech\\Faria Fintech API\\Faria Fintech API.csproj",
+      "projectUniqueName": "C:\\Users\\Higor\\source\\repos\\Faria Fintech\\Faria-Fintech\\Faria Fintech API\\Faria Fintech API.csproj",
       "projectName": "Faria Fintech API",
-      "projectPath": "C:\\Users\\Higor\\source\\repos\\Faria Fintech\\Faria Fintech API\\Faria Fintech API.csproj",
+      "projectPath": "C:\\Users\\Higor\\source\\repos\\Faria Fintech\\Faria-Fintech\\Faria Fintech API\\Faria Fintech API.csproj",
       "packagesPath": "C:\\Users\\Higor\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Higor\\source\\repos\\Faria Fintech\\Faria Fintech API\\obj\\",
+      "outputPath": "C:\\Users\\Higor\\source\\repos\\Faria Fintech\\Faria-Fintech\\Faria Fintech API\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Higor\\AppData\\Roaming\\NuGet\\NuGet.Config",
